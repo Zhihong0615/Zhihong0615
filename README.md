@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Zhihong
+# Hi 🤗, I'm Zhihong
 
 ### AI Infrastructure · AI Agents for EDA · FPGA Heterogeneous Acceleration
 
